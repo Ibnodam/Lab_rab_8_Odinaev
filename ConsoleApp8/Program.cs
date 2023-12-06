@@ -1,7 +1,6 @@
 ﻿using System;
 
-while (true)
-{
+
     try
     {
 
@@ -85,7 +84,7 @@ while (true)
     {
         Console.WriteLine(ex.Message);
     }
-}
+
 
 
 struct Mail
